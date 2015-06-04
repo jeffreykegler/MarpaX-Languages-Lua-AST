@@ -7,7 +7,7 @@
 # todo: add functions from 2.8 – Metatables
 #       starting at "That is, the access to a metamethod does not invoke other metamethods"
 
-use v5.14.2;
+use 5.10;
 use warnings;
 use strict;
 

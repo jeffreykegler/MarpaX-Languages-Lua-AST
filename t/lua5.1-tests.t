@@ -7,7 +7,7 @@
 
 # source of programs: http://lua-users.org/wiki/SampleCode
 
-use v5.14.2;
+use 5.10;
 use warnings;
 use strict;
 

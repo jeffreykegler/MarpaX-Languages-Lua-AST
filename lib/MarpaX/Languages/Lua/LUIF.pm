@@ -5,7 +5,7 @@
 
 package MarpaX::Languages::Lua::LUIF;
 
-use v5.14.2;
+use 5.10;
 use strict;
 use warnings;
 

@@ -6,7 +6,7 @@
 # file specified on the command line appending '.lua' to its name unless it already
 # has such extension or the standard output if no output file is specified
 
-use v5.14.2;
+use 5.10;
 use warnings;
 use strict;
 
